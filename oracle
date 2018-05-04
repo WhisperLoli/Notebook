@@ -1,0 +1,5 @@
+import *.dmp to oracle:
+    $ imp leapstack/leapstack file='/home/oracle/ybsl_20172.dmp' log='/home/oracle/ybsl_201702.log' full=y
+set character :
+    echo $NLS_LANG
+    export NLS_LANG=AMERICAN_AMERICA.UTF8
