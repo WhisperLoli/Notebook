@@ -1,0 +1,7 @@
+首先推荐一门讲学习方法的课: learn how to learn   https://www.coursera.org/learn/learning-how-to-learn/home/welcome
+线代是机器学习的数学基石，这里主要使用两个材料：
+1. Linear algebra preview From 3Blue1Brown, 这是线代我发现最好的通俗解释，在学习正式课程前先学 https://www.youtube.com/watch?v=kjBOesZCoqc&index=0&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+
+2. MIT 线性代数（选读） https://www.youtube.com/watch?v=ZK3O402wf1c&feature=youtu.be
+
+http://open.163.com/special/opencourse/daishu.html 同样的视频源 网易云课堂
