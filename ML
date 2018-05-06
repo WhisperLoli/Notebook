@@ -5,3 +5,5 @@
 2. MIT 线性代数（选读） https://www.youtube.com/watch?v=ZK3O402wf1c&feature=youtu.be
 
 http://open.163.com/special/opencourse/daishu.html 同样的视频源 网易云课堂
+
+https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7  
