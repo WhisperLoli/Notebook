@@ -1,9 +1,54 @@
-首先推荐一门讲学习方法的课: learn how to learn   https://www.coursera.org/learn/learning-how-to-learn/home/welcome
-线代是机器学习的数学基石，这里主要使用两个材料：
+
+============ 辅助资料 ==================
+讲学习方法的课: learn how to learn   https://www.coursera.org/learn/learning-how-to-learn/home/welcome
+
+算法工程师必备技能：lwurl.to/gTZ2f
+
+ML视觉简介：http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
+
+ML cheat sheet
+https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
+
+ 线性代数：
 1. Linear algebra preview From 3Blue1Brown, 这是线代我发现最好的通俗解释，在学习正式课程前先学 https://www.youtube.com/watch?v=kjBOesZCoqc&index=0&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
 2. MIT 线性代数（选读） https://www.youtube.com/watch?v=ZK3O402wf1c&feature=youtu.be
 
 http://open.163.com/special/opencourse/daishu.html 同样的视频源 网易云课堂
 
-https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7  
+微积分: essence of calculus 
+https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+
+多变量微积分：
+https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7
+
+概率与统计：
+https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2
+
+https://ocw.mit.edu/courses/mathematics/18-655-mathematical-statistics-spring-2016/lecture-notes/
+========= 机器学习理论 ==============
+经典机器学习：
+机器学习大师Andrew Ng机器学习入门必读的经典课程：
+https://www.coursera.org/learn/machine-learning
+
+深度学习:
+deeplearning.ai的系列课程
+https://www.coursera.org/specializations/deep-learning
+
+========= 机器学习实践================
+霍普金斯大学的python data science课程：
+https://www.coursera.org/learn/data-scientists-tools
+
+ML Project Ideas
+https://github.com/NirantK/awesome-pr...
+
+数据可视化：
+https://www.coursera.org/learn/datavisualization/home/welcome
+特征工程技巧：
+https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
+ 谷歌tensorflow ML课程：
+https://developers.google.com/machine-learning/crash-course/
+苹果的ML课程 :
+https://apple.github.io/turicreate/docs/userguide/
+scikit-learn training:
+https://github.com/justmarkham/pycon-2016-tutorial
